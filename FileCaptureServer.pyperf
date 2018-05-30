@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>3558f1f8-778c-4430-85c9-b1cffca96a5b</TargetProject>
+    <FriendlyName>FileCaptureServer</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\WuHaoze\AppData\Local\Temp\FileCaptureServer_20180525.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
